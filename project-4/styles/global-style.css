@@ -1,0 +1,13 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 300px;
+}
