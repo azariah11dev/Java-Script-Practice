@@ -1,0 +1,12 @@
+.container-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#increment-1, #increment-2, #increment-3,
+#decrement-1, #decrement-2, #decrement-3 {
+    height: 30px;
+    width: 100px
+}
