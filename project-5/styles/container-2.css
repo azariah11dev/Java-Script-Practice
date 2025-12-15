@@ -1,0 +1,12 @@
+.container-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+#container-2-rock, #container-2-scissors, #container-2-paper,
+#container-2-confirm {
+    width: 100px;
+}
